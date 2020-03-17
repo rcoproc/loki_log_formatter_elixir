@@ -23,7 +23,7 @@ https://akoutmos.com/post/elixir-logging-loki/?utm_source=elixirdigest&utm_mediu
 
     http://localhost:3000/explore
 
-    (Grafana backend)![public/grafana_all_logs.png]
+    (Grafana backend)![https://github.com/rcoproc/loki_log_formatter_elixir/blob/master/public/grafana_all_logs.png]
 
     
 
