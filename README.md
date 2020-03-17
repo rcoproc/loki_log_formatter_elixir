@@ -1,5 +1,7 @@
 # AutoFinder with Loki Logger 🈂
 
+https://akoutmos.com/post/elixir-logging-loki/?utm_source=elixirdigest&utm_medium=email&utm_campaign=246
+
     $ docker plugin install grafana/loki-docker-driver:latest --alias loki --grant-all-permissions
 
     $ docker-compose up
