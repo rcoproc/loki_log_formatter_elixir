@@ -1,4 +1,4 @@
-# AutoFinder with Loki Logger 🈂
+# AutoFinder with Loki Logger, and Credo 🈂
 
 https://akoutmos.com/post/elixir-logging-loki/?utm_source=elixirdigest&utm_medium=email&utm_campaign=246
 
@@ -25,7 +25,11 @@ https://akoutmos.com/post/elixir-logging-loki/?utm_source=elixirdigest&utm_mediu
 
 ![Grafana backend](https://github.com/rcoproc/loki_log_formatter_elixir/blob/master/public/grafana_all_logs.png)
 
-    
+## Run Credo static code analysis:
+
+https://github.com/rrrene/credo?utm_source=elixirdigest&utm_medium=email&utm_campaign=246
+
+    mix credo list
 
 To start your Phoenix server(not necessary):
 
