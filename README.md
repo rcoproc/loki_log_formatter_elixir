@@ -23,6 +23,8 @@ https://akoutmos.com/post/elixir-logging-loki/?utm_source=elixirdigest&utm_mediu
 
     http://localhost:3000/explore
 
+    (Grafana backend)![public/grafana_all_logs.png]
+
     
 
 To start your Phoenix server(not necessary):
