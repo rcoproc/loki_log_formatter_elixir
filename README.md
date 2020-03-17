@@ -31,6 +31,8 @@ https://github.com/rrrene/credo?utm_source=elixirdigest&utm_medium=email&utm_cam
 
     mix credo list
 
+![Credo Analysis tool](https://camo.githubusercontent.com/a0451c43f301b4d1ab2186e600e552d0f12093cc/68747470733a2f2f7261772e6769746875622e636f6d2f727272656e652f637265646f2f6d61737465722f6173736574732f73637265656e73686f742e706e67)
+
 To start your Phoenix server(not necessary):
 
   * Install dependencies with `mix deps.get`
